@@ -7,7 +7,9 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Click Play button" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Button Text="Play Audio" Clicked="Button_Clicked"/>
+        <Button Text="Play Not working Audio" Clicked="Button_Clicked"/>
+        <Button Text="Play working Audio" Clicked="Button_Clicked_1"/>
+        <Button Text="Save Log" Clicked="Button_Clicked_2"/>
     </StackLayout>
 
 </ContentPage>
