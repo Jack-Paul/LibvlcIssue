@@ -1,0 +1,15 @@
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\bin\Debug\netstandard2.0\LibVlcSharpIssue.deps.json
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\bin\Debug\netstandard2.0\LibVlcSharpIssue.dll
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\bin\Debug\netstandard2.0\ref\LibVlcSharpIssue.dll
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\bin\Debug\netstandard2.0\LibVlcSharpIssue.pdb
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.csproj.AssemblyReference.cache
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.AssemblyInfoInputs.cache
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.AssemblyInfo.cs
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.csproj.CoreCompileInputs.cache
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.dll
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\ref\LibVlcSharpIssue.dll
+D:\Dev\Cross platform\LibVlcSharpIssue\LibVlcSharpIssue\obj\Debug\netstandard2.0\LibVlcSharpIssue.pdb

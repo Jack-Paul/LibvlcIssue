@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSsHymnQWoqXYkxT8aYJE7Nmc0ex/KJh8bIs/FRvyNk6McMXu9eTw5gpgNyEB3/u4MJZnIK+QUlo+yUhfqmfxw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Cross platform\\LibvlcIssue\\LibVlcSharpIssue\\LibVlcSharpIssue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackp\\.nuget\\packages\\libvlcsharp\\3.6.7\\libvlcsharp.3.6.7.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\libvlcsharp.forms\\3.6.7\\libvlcsharp.forms.3.6.7.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
